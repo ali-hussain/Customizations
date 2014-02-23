@@ -4,6 +4,7 @@
 ;; Personalizations
 (global-set-key (kbd "M-g") 'goto-line) ; goto-line shortcut
 (mwheel-install)
+(setq-default column-number-mode t)
 (setq-default indent-tabs-mode nil) ; Never use tabs while indenting
  (when (fboundp 'windmove-default-keybindings)
       (windmove-default-keybindings))
