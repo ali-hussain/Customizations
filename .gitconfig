@@ -1,6 +1,6 @@
 [user]
 	name = Ali Hussain
-	email = alia.hussain@gmail.com
+	email = ali@flux7.com
 [alias]
         lol = log --graph --decorate --pretty=oneline --abbrev-commit
         lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
